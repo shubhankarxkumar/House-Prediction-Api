@@ -1,5 +1,5 @@
 GitHub Repository Description
-California House Price Prediction API 🏠📊
+California House Price Prediction API 
 
 A machine learning-powered REST API built with FastAPI to predict California house prices using a trained Random Forest Regressor. The API supports both individual house price predictions through JSON requests and batch predictions by uploading CSV files.
 
